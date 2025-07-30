@@ -1,3 +1,8 @@
+// Para compilar este código, use o seguinte comando:
+// gcc main.c tabuleiro.c game.c terminal_utils.c -o tictactoc
+// sim, eu chamei de tiCtaCtoC por ser em C.
+
+
 #include <stdio.h>
 
 #include "tabuleiro.h"
